@@ -5,3 +5,10 @@ C:\Users\marcio\source\repos\calculadora\calculadora\obj\Debug\calculadora.cspro
 C:\Users\marcio\source\repos\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
 C:\Users\marcio\source\repos\calculadora\calculadora\obj\Debug\calculadora.exe
 C:\Users\marcio\source\repos\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\marcio\source\repos\Calculadora-juros-compostos\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\marcio\source\repos\Calculadora-juros-compostos\calculadora\bin\Debug\calculadora.exe
+C:\Users\marcio\source\repos\Calculadora-juros-compostos\calculadora\bin\Debug\calculadora.pdb
+C:\Users\marcio\source\repos\Calculadora-juros-compostos\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\marcio\source\repos\Calculadora-juros-compostos\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\marcio\source\repos\Calculadora-juros-compostos\calculadora\obj\Debug\calculadora.exe
+C:\Users\marcio\source\repos\Calculadora-juros-compostos\calculadora\obj\Debug\calculadora.pdb

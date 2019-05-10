@@ -11,24 +11,15 @@ namespace calculadora
         static void Main(string[] args)
         {
             Console.WriteLine("valor investido");
-            var cc1 = Console.ReadLine();
+            decimal valorInicial = Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine("numero meses");
-            var cc2 = Console.ReadLine();
+            int meses = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("taxa de juros ao mês");
-            var cc4 = Console.ReadLine();
+            decimal taxa = (Convert.ToDecimal(Console.ReadLine()) / 100);
             Console.WriteLine("aportes");
-            var cc3 = Console.ReadLine();
+            decimal aporte = Convert.ToDecimal(Console.ReadLine());
+            decimal montante = 0;
 
-
-
-            double valorInicial = Convert.ToDouble(cc1);
-            double aporte = Convert.ToDouble(cc3);
-            double taxa = Convert.ToDouble(cc4);
-            taxa = taxa / 100;
-            int meses = Convert.ToInt32(cc2);
-
-
-            double montante = 0;
             montante = valorInicial + (valorInicial * taxa);
             Console.WriteLine("Mes " + 1 + " RS: " + Math.Round(montante, 2));
             for (int i = 2; i <= meses; i++ )
@@ -37,7 +28,6 @@ namespace calculadora
                 Console.WriteLine("Mes " + i + " RS: " + Math.Round(montante, 2));
             }
             Console.ReadKey();
-
         }
     }
 }
